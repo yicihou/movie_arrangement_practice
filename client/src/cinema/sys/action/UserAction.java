@@ -47,7 +47,10 @@ public class UserAction {
     /*
      *密码找回
      */
-    public  void find(){}
+    public  void find(){
+        //打包信息
+        System.out.println("请输入要找回的账号");
+    }
     /*
      *申请解冻
      */
